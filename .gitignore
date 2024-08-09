@@ -2,3 +2,5 @@
 /ContestApp/.vs
 /ContestApp/obj
 /ContestApp/_ReSharper.Caches/ReSharperPlatformVs17231_c28541f4.ContestApp.00
+/ContestApp/bin/Debug/net7.0
+/ContestAppTests/bin/Debug/net7.0
