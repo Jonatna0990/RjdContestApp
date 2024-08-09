@@ -1,4 +1,3 @@
-
 using ContestApp.Models;
 using ContestApp.Services;
 

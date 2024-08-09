@@ -1,6 +1,7 @@
 using ContestApp.Models.Console;
 
 namespace ContestApp.Services;
+
 /// <summary>
 /// Сервис для запуска команд
 /// </summary>

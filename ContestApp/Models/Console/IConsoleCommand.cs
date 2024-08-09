@@ -1,4 +1,5 @@
 namespace ContestApp.Models.Console;
+
 /// <summary>
 /// Интерфейс для запуска команд
 /// </summary>
